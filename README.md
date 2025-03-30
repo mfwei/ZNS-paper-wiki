@@ -128,8 +128,10 @@
 ## 9. Books, Courses: 
   * [CSCI 333, Storage Systems, Williams College](https://www.cs.williams.edu/~jannen/teaching/s21/cs333/index.html)
     > [Prof. Bill Jannen](https://www.cs.williams.edu/~jannen)
+    
   * [Storage Systems, MSc, VU](https://atlarge-research.com/courses/storage-systems-vu/)
-    > [Reviving Storage Systems Education in the 21st Century](https://atlarge-research.com/courses/storage-systems-vu/), CCGrid '24
+    > [Reviving Storage Systems Education in the 21st Century](https://atlarge-research.com/pdfs/2024-stosys-education.pdf), CCGrid '24, :clipboard: [Slides Show](https://docs.google.com/presentation/d/1XcGmP2kTrY-OW563licFKnbG05_p-jiU8E3eGHVkFY4/edit?pli=1&slide=id.g2d25b1f337f_0_286#slide=id.g2d25b1f337f_0_286)
+    
   * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
     > * [39 Files and Directories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
     > * [40 File System Implementation](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)
