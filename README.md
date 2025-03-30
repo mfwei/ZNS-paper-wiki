@@ -11,11 +11,9 @@
 4. [Storage Virtualization, Emulation, Simulation](#4-storage-virtualization-emulation-simulation)
 5. [Flash I/O Scheduling and quality-of-service/multi-tenancy](#5-flash-io-scheduling-and-quality-of-servicemulti-tenancy)
 6. [Database, Timeseries, VectorDB, Lookup, Indexes on Storage](#6-database-timeseries-vectordb-lookup-indexes-on-storage)
-7. [Emerging systems architectures](#7-emerging-systems-architectures)
-8. [Emerging storage interfaces and features](#8-emerging-storage-interfaces-and-features)
-9. [SNIA/NVMe weblinks](#9-snianvme-weblinks)
-10. [Other Applications](#10-other-applications)
-11. [Courses](#11-books-courses)
+7. [SNIA/NVMe weblinks](#7-snianvme-weblinks)
+8. [Other Applications](#8-other-applications)
+9. [Courses](#9-books-courses)
 
 ## 1. File Systems
   ### 1.1 Btrfs
@@ -107,12 +105,8 @@
   * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization
   * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
-    
-## 7. Emerging systems architectures 
-
-## 8. Emerging storage interfaces and features 
  
-## 9. SNIA/NVMe weblinks   
+## 7. SNIA/NVMe weblinks   
   * [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
   * [NVMe® Computational Storage: From Addressing Ransomware to Improving Bandwidth](https://nvmexpress.org/resource/nvme-computational-storage-from-addressing-ransomware-to-improving-bandwidth/)
   * [RocksDB* db_bench Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/content-details/686417/rocksdb-db-bench-tuning-guide-on-3rd-generation-intel-xeon-scalable-processors-based-platform.html)
@@ -128,10 +122,10 @@
   * 2024 - [Storage Trends 2024: Your Questions Answered](https://sniablog.org/storage-trends-your-questions-answered/)
       > :clipboard:	[Slides Show](https://www.snia.org/sites/default/files/sta/SNIA-STA-Storage-Trends-2024-Webinar.pdf), :film_strip: [Video](https://www.youtube.com/watch?v=l8qPrFtY6qE)
       
-## 10. Other applications
+## 8. Other applications
   * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
     
-## 11. Books, Courses: 
+## 9. Books, Courses: 
   * [CSCI 333, Storage Systems, Williams College](https://www.cs.williams.edu/~jannen/teaching/s21/cs333/index.html)
     > [Prof. Bill Jannen](https://www.cs.williams.edu/~jannen)
   * [Storage Systems, MSc, VU](https://atlarge-research.com/courses/storage-systems-vu/)
