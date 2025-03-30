@@ -131,5 +131,11 @@
   * [Storage Systems, MSc, VU](https://atlarge-research.com/courses/storage-systems-vu/)
     > [Reviving Storage Systems Education in the 21st Century](https://atlarge-research.com/courses/storage-systems-vu/), CCGrid '24
   * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+    > [39 Files and Directories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
+    > [40 File System Implementation](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)
+    > [42 FSCK and Journaling](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)
+    > [43 Log-structured File System (LFS)](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
+    > [44 Flash-based SSDs](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)
+    > [45 Data Integrity and Protection](https://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)
 
 ***
