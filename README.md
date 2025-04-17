@@ -139,5 +139,10 @@
     > * [43 Log-structured File System (LFS)](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
     > * [44 Flash-based SSDs](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)
     > * [45 Data Integrity and Protection](https://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)
-
+  
+  * [The Linux Memory Manager](https://nostarch.com/linux-memory-manager)
+    > * Chapter 9: The Page Cache
+    > * Chapter 10: Writeback
+    > * Chapter 11: Reclaim and Memory Pressure
+    > * Chapter 12: Swap Memory
 ***
