@@ -11,9 +11,10 @@
 4. [Storage Virtualization, Emulation, Simulation](#4-storage-virtualization-emulation-simulation)
 5. [Flash I/O Scheduling and quality-of-service/multi-tenancy](#5-flash-io-scheduling-and-quality-of-servicemulti-tenancy)
 6. [Database, Timeseries, VectorDB, Lookup, Indexes on Storage](#6-database-timeseries-vectordb-lookup-indexes-on-storage)
-7. [SNIA/NVMe weblinks](#7-snianvme-weblinks)
-8. [Other Applications](#8-other-applications)
-9. [Courses](#9-books-courses)
+7. [SNIA/NVMe weblinks](#7-storage-io-characterization)
+8. [SNIA/NVMe weblinks](#8-snianvme-weblinks)
+9. [Other Applications](#9-other-applications)
+10. [Courses](#10-books-courses)
 
 ## 1. File Systems
   ### 1.1 Btrfs
@@ -108,7 +109,12 @@
   * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
  
-## 7. SNIA/NVMe weblinks   
+## 7. Storage IO Characterization
+  * 2022 - [Extracting and characterizing I/O behavior of HPC workloads](https://ieeexplore.ieee.org/abstract/document/9912707), CLUSTER '22
+  * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
+  * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
+
+## 8. SNIA/NVMe weblinks   
   * [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
   * [NVMe® Computational Storage: From Addressing Ransomware to Improving Bandwidth](https://nvmexpress.org/resource/nvme-computational-storage-from-addressing-ransomware-to-improving-bandwidth/)
   * [RocksDB* db_bench Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/content-details/686417/rocksdb-db-bench-tuning-guide-on-3rd-generation-intel-xeon-scalable-processors-based-platform.html)
@@ -124,11 +130,10 @@
   * 2024 - [Storage Trends 2024: Your Questions Answered](https://sniablog.org/storage-trends-your-questions-answered/)
       > :clipboard:	[Slides Show](https://www.snia.org/sites/default/files/sta/SNIA-STA-Storage-Trends-2024-Webinar.pdf), :film_strip: [Video](https://www.youtube.com/watch?v=l8qPrFtY6qE)
       
-## 8. Other applications
+## 9. Other applications
   * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
-  * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
     
-## 9. Books, Courses: 
+## 10. Books, Courses: 
   * [CSCI 333, Storage Systems, Williams College](https://www.cs.williams.edu/~jannen/teaching/s21/cs333/index.html)
     > [Prof. Bill Jannen](https://www.cs.williams.edu/~jannen)
     
