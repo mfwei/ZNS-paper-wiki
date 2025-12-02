@@ -110,7 +110,9 @@
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
  
 ## 7. Storage IO Characterization
+  * 2018 - [I/O characteristics discovery in cloud storage systems](https://ieeexplore.ieee.org/abstract/document/8457797), CLOUD '18
   * 2022 - [Extracting and characterizing I/O behavior of HPC workloads](https://ieeexplore.ieee.org/abstract/document/9912707), CLUSTER '22
+  * 2022 - [Data Storage System Requirement for Autonomous Vehicle](https://ieeexplore.ieee.org/abstract/document/10003785), ICCAS '22
   * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
   * 2024 - [Quantitative Analysis of Storage Requirement for Autonomous Vehicles](https://dl.acm.org/doi/abs/10.1145/3655038.3665948), HotStorage '24
   * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
