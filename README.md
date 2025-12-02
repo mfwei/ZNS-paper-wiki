@@ -1,6 +1,6 @@
 # Welcome to my ZNS paper wiki!
 
-* :bulb: [Johnson's Secret Recepits](https://homepage.iis.sinica.edu.tw/~johnson/Notebook.php)
+* :bulb: [Johnson's Secret Recepits](https://www.csie.ntu.edu.tw/~johnson/Notebook.php)
 
 ***
 
