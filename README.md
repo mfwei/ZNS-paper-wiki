@@ -99,6 +99,8 @@
     
 ## 5. Flash I/O Scheduling and quality-of-service/multi-tenancy 
   * 2023 - [Achieving Performance Isolation in Docker Environments with ZNS SSDs](https://ieeexplore.ieee.org/document/10254344), NVMSA '23
+  * 2025 - [Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era](https://atlarge-research.com/pdfs/2025-iiswc-cgroups.pdf), IISWC '25
+    > :octocat: [GitHub](https://github.com/stonet-research/isol-bench)
 
 ## 6. Database, Timeseries, VectorDB, Lookup, Indexes on Storage  
   * 2022 - [Accelerating RocksDB for Small-Zone ZNS SSDs by Parallel I/O](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
@@ -124,6 +126,7 @@
       
 ## 8. Other applications
   * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
+  * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
     
 ## 9. Books, Courses: 
   * [CSCI 333, Storage Systems, Williams College](https://www.cs.williams.edu/~jannen/teaching/s21/cs333/index.html)
