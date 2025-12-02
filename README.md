@@ -11,7 +11,7 @@
 4. [Storage Virtualization, Emulation, Simulation](#4-storage-virtualization-emulation-simulation)
 5. [Flash I/O Scheduling and quality-of-service/multi-tenancy](#5-flash-io-scheduling-and-quality-of-servicemulti-tenancy)
 6. [Database, Timeseries, VectorDB, Lookup, Indexes on Storage](#6-database-timeseries-vectordb-lookup-indexes-on-storage)
-7. [SNIA/NVMe weblinks](#7-storage-io-characterization)
+7. [Storage IO Characterization](#7-storage-io-characterization)
 8. [SNIA/NVMe weblinks](#8-snianvme-weblinks)
 9. [Other Applications](#9-other-applications)
 10. [Courses](#10-books-courses)
