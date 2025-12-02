@@ -112,6 +112,7 @@
 ## 7. Storage IO Characterization
   * 2022 - [Extracting and characterizing I/O behavior of HPC workloads](https://ieeexplore.ieee.org/abstract/document/9912707), CLUSTER '22
   * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
+  * 2024 - [Quantitative Analysis of Storage Requirement for Autonomous Vehicles](https://dl.acm.org/doi/abs/10.1145/3655038.3665948), HotStorage '24
   * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
 
 ## 8. SNIA/NVMe weblinks   
